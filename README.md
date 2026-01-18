@@ -1,8 +1,8 @@
-# asset-based-finance-models
+# Applied Valuation and Credit Risk Models
 
-This repository contains two financial models developed independently to explore asset valuation and credit risk within the commercial aviation sector. The work was undertaken as a self-directed project to deepen my understanding of applied valuation, capital recovery dynamics, and airline financial resilience, beyond standard academic coursework.
+This repository contains self-directed financial modelling projects focused on asset-based valuation and credit risk analysis in capital-intensive businesses. The work emphasises discounted cash flow modelling, capital recovery dynamics, and scenario-based stress testing, with commercial aviation used as a primary case study due to its exposure to operating leverage, residual value risk, and structured financing.
 
-The focus throughout was not on producing stylised outputs, but on building internally consistent models that reflect how valuation and risk assessment are approached in practice.
+The objective was not to produce stylised academic outputs, but to build internally consistent models that reflect how valuation and risk assessment are approached in practice across real assets.
 
 ---
 

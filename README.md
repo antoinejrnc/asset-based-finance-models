@@ -1,4 +1,4 @@
-# Aviation Finance Models
+# asset-based-finance-models
 
 This repository contains two financial models developed independently to explore asset valuation and credit risk within the commercial aviation sector. The work was undertaken as a self-directed project to deepen my understanding of applied valuation, capital recovery dynamics, and airline financial resilience, beyond standard academic coursework.
 
